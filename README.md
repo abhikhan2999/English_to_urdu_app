@@ -1,8 +1,3 @@
-# English_to_urdu_app
-Here's a detailed and impressive README for your code:
-
----
-
 # English to Urdu Translation App
 
 ## Overview
